@@ -1,0 +1,214 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Assets/Tile/map.json",
+    "expandedProjectPaths": [
+        "Assets",
+        "Tile",
+        ".",
+        "Assets/Tile"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Block": {
+            "scaleInDock": 1
+        },
+        "#Spritesheet": {
+            "scaleInDock": 1
+        },
+        "#spritesheet": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/Block.tsx": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/Map.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Assets/Tile/block.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map.json": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -186.36363636363626,
+                "y": 1242.4242424242423
+            }
+        },
+        "Assets/Tile/map.json#Icespiek": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map.json#Vatten": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map.json#block": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map.json#spritesheet": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map.json#spritesheet1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Tile/map.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 551.5151515151516,
+                "y": 587.8787878787878
+            }
+        },
+        "Assets/Tile/map.tmx#block": {
+            "dynamicWrapping": false
+        },
+        "Assets/Tile/map.tmx#spritesheet": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map1.json": {
+            "scale": 0.42496666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 741.2346066358145,
+                "y": 491.8032786885246
+            }
+        },
+        "Assets/Tile/map1.tmx": {
+            "scale": 0.42496666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 743.5877323711663,
+                "y": 494.1564044238764
+            }
+        },
+        "Assets/Tile/map2.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1883.3333333333335,
+                "y": 750
+            }
+        },
+        "Assets/Tile/map2.json#Water": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/map2.json#spritesheet": {
+            "scaleInDock": 1
+        },
+        "Assets/Tile/spritesheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Tile/untitled.tmx": {
+            "scale": 0.5301,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 750.8017355215998,
+                "y": 787.5872476891153
+            }
+        },
+        "C:/Users/linus/AppData/Local/Temp/Rar$DIa3684.28427.rartemp/map1.tmx": {
+            "scale": 0.15400390625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 642.84083703234,
+                "y": 2766.1636017755236
+            }
+        },
+        "C:/Users/linus/AppData/Local/Temp/Rar$DIa3684.28427.rartemp/map1.tmx#tiles1": {
+            "scaleInDock": 1
+        },
+        "Tile/Block.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tile/Ground.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tile/Lava.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tile/Map.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1021,
+                "y": 735
+            }
+        },
+        "Tile/Map.json#spritesheet": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tile/Map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 33.33333333333337,
+                "y": 500
+            }
+        },
+        "Tile/untitled.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 686,
+                "y": 535
+            }
+        },
+        "Tile/untitled.tmx#block": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/linus/Downloads/CoinGame/Assets/Tile",
+    "last.externalTilesetPath": "C:/Users/linus/Downloads/CoinGame/Assets/Tile",
+    "last.imagePath": "C:/Users/linus/Downloads/CoinGame/Assets/Images",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 50,
+    "map.tileWidth": 50,
+    "map.width": 100,
+    "openFiles": [
+        "Assets/Tile/map.json",
+        "Assets/Tile/map2.json"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Assets/Tile/map2.json",
+        "Assets/Tile/map.json",
+        "Assets/Tile/spritesheet.tsx",
+        "Assets/Tile/map1.json",
+        "Assets/Tile/map.tmx",
+        "Assets/Tile/untitled.tmx",
+        "Tile/untitled.tmx",
+        "Tile/Map.json",
+        "Tile/Ground.tsx",
+        "Tile/Block.tsx",
+        "C:/Users/linus/AppData/Local/Temp/Rar$DIa3684.28427.rartemp/map1.tmx",
+        "Tile/Map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "All Files (*)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 50,
+        "width": 50
+    },
+    "tileset.type": 0
+}
